@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 
 
  <p align="center">
-  <img src="https://img.shields.io/badge/Age-21-blue" />
+  <img src="https://img.shields.io/badge/Age-!!-blue" />
   <img src="https://img.shields.io/badge/Study-Computer science-blue" />
   <a url="https://www.sliit.lk/"><img src="https://img.shields.io/badge/From -Sri%20Lanka-blue" /></a>
-  <img src="https://img.shields.io/badge/Languages-Tamil, English%20%26%20Sinhala-blue" />
+  <img src="https://img.shields.io/badge/Languages-Tamil, English%20%26%20-blue" />
 </p>
 
 ---
