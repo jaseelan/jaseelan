@@ -1,7 +1,7 @@
-## Hi there 👋 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=43dc12&size=24&lines=Hi....;My+name+is+jaseelan..;)](https://git.io/typing-svg)
+## Hi there 👋 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=43dc12&size=24&lines=My+name+is+jaseelan..;)](https://git.io/typing-svg)
 
 
- ✨ _special_ ✨
+ ✨  ✨ ✨  ✨
 
 Here are some ideas to get you started:
 
