@@ -5,9 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭  I’m currently working on
-     ### penetration testing
-     >> vulnerability assessments
+- 🔭  I’m currently working on penetration testing, vulnerability assessments
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -29,7 +27,7 @@ Here are some ideas to get you started:
 
 ####  Streak Status 
 <br>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jaseelan&theme=light" alt="Bihash07"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jaseelan&theme=light" alt="jaseelan"  /></p>
 
 
 [![GitHub followers](https://img.shields.io/github/followers/jaseelan.svg?style=social&label=Followers)](https://github.com/jaseelan?tab=followers)
