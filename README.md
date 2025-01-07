@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 
 
 <details>
-<summary>Frontend Development 👉</summary>
+<summary>cyber security 👉</summary>
 <p align="center"> 
 
   &emsp; 
@@ -88,7 +88,7 @@ Here are some ideas to get you started:
 
 
 <details>
- <summary> Software & Tools 👉 </summary>
+ <summary> Kali linux  👉 </summary>
  
 <p align="center">
 
@@ -105,7 +105,7 @@ Here are some ideas to get you started:
 
 ---
 
-<summary>Connect with me🤝 :</summary>
+<summary>Connect with me🤝 : jaseelan</summary>
 
 
 ---
