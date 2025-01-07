@@ -1,7 +1,7 @@
 ## Hi there 👋 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=43dc12&size=24&lines=Hi...Evrey+one..;My+name+is+jaseelan..;)](https://git.io/typing-svg)
 
 
-**jaseelan/jaseelan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jaseelan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -10,12 +10,12 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me:------------->
+- 📫 How to reach me:
 - ⚡ Fun fact: ...
 
 
  <p align="center">
-  <img src="https://img.shields.io/badge/name-jasee-blue" />
+  <img src="https://img.shields.io/badge/name - jasee-blue" />
   <img src="https://img.shields.io/badge/Study-Software engineering-blue" />
   <a url="https://www.sliit.lk/"><img src="https://img.shields.io/badge/From -Sri%20Lanka-blue" /></a>
   <img src="https://img.shields.io/badge/Languages-Tamil, English%20%26%20-blue" />
