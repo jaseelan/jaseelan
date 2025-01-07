@@ -1,7 +1,7 @@
-## Hi there 👋 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=43dc12&size=24&lines=Hi...Evrey+one..;My+name+is+jaseelan..;)](https://git.io/typing-svg)
+## Hi there 👋 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=43dc12&size=24&lines=Hi....;My+name+is+jaseelan..;)](https://git.io/typing-svg)
 
 
-**jaseelan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ✨ _special_ ✨
 
 Here are some ideas to get you started:
 
