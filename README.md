@@ -10,14 +10,13 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: +94771005506
-- 😄 Pronouns: ...
+- 📫 How to reach me:------------->
 - ⚡ Fun fact: ...
 
 
  <p align="center">
-  <img src="https://img.shields.io/badge/Age-!!-blue" />
-  <img src="https://img.shields.io/badge/Study-Computer science-blue" />
+  <img src="https://img.shields.io/badge/name-jasee-blue" />
+  <img src="https://img.shields.io/badge/Study-Software engineering-blue" />
   <a url="https://www.sliit.lk/"><img src="https://img.shields.io/badge/From -Sri%20Lanka-blue" /></a>
   <img src="https://img.shields.io/badge/Languages-Tamil, English%20%26%20-blue" />
 </p>
