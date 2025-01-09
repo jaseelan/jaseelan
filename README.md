@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jaseelan&theme=light" alt="jaseelan"  /></p>
 
 
-[![GitHub followers](https://img.shields.io/github/followers/jaseelan.svg?style=social&label=Followers)](https://github.com/jaseelan?tab=followers)
+[![GitHub followers](https://img.shields.io/github/views/jaseelan.svg?style=social&label=views)](https://github.com/jaseelan?tab=viewers)
 
 ---
 
