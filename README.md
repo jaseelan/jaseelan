@@ -23,12 +23,6 @@ Here are some ideas to get you started:
 
 ---
 
-
-####  Streak Status 
-<br>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jaseelan&theme=light" alt="jaseelan"  /></p>
-
-
 ![Profile Views](https://komarev.com/ghpvc/?username=jaseelan&color=blue&style=flat-square)  
 ![Followers](https://img.shields.io/github/followers/jaseelan?style=social)
 
